@@ -18,5 +18,8 @@ kali-root-login
 desktop-base
 cinnamon
 
+# Wallpapers
+kali-wallpapers-all
+
 # Kali applications
 #<package>

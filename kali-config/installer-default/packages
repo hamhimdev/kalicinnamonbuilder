@@ -18,10 +18,10 @@ kali-linux-default
 # kali-linux-large
 
 # Graphical desktops
-kali-desktop-xfce
-kali-desktop-gnome
-kali-desktop-kde
 kali-defaults
 kali-root-login
 desktop-base
 cinnamon
+
+# Wallpapers
+kali-wallpapers-all
